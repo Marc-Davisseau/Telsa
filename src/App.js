@@ -10,7 +10,7 @@ function App() {
   const [switch2, setSwitch2] = useState(true);
   const [switch3, setSwitch3] = useState(false);
   const [switch4, setSwitch4] = useState(true);
-  const [counter1, setCounter1] = useState(90700);
+
 
   // setCounter1(counter1 - 7000)
 
